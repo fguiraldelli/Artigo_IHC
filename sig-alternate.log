@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.4.30)  28 OCT 2012 22:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.4.30)  28 OCT 2012 23:48
 entering extended mode
  %&-line parsing enabled.
 **sig-alternate.tex
@@ -481,19 +481,35 @@ eb/ \T1/aer/m/n/9 apre-
  []
 
 
-Overfull \hbox (239.96904pt too wide) in paragraph at lines 271--301
- [][] 
+Overfull \hbox (14.62381pt too wide) in paragraph at lines 273--279
+[]\T1/aer/m/n/9 Localizado no sí-tio \T1/aett/m/n/9 http://www.zonauniversitari
+a.com.br/
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 322--322
+\T1/aer/m/n/9 -- Im-pres-são que só pes-soas da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+
  []
 
 No file sig-alternate.bbl.
-[2] (./sig-alternate.aux) ) 
+[2] [3] (./sig-alternate.aux) ) 
 Here is how much of TeX's memory you used:
  2366 strings out of 495042
  25807 string characters out of 1181920
- 85438 words of memory out of 3000000
+ 87438 words of memory out of 3000000
  5515 multiletter control sequences out of 15000+50000
  40136 words of font info for 52 fonts, out of 3000000 for 9000
  30 hyphenation exceptions out of 8191
  39i,10n,26p,455b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sig-alternate.dvi (2 pages, 11792 bytes).
+Output written on sig-alternate.dvi (3 pages, 13856 bytes).
